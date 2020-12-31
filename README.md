@@ -12,6 +12,8 @@
   The official website of UBC deepThink.
 </p>
 
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/9779a10a-9bb7-45f6-8da2-824c90e73e6e/deploy-status)](https://app.netlify.com/sites/friendly-goldberg-4f6d6b/deploys)
+
 
 <br>
 
