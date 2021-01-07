@@ -3,11 +3,11 @@ module.exports = {
   tagline:
     "UBC's new student run data and machine learning design team.",
     // TODO: change this to the link that we have readily available for ubc pandas
-  url: 'https://friendly-goldberg-4f6d6b.netlify.app',
+  url: 'https://ubcpandas.github.io',
   baseUrl: '/',
   favicon: 'img/nn1.png',
   organizationName: 'ubcpandas',
-  projectName: '',
+  projectName: 'ubcpandas.github.io',
   onBrokenLinks: 'ignore',
   themeConfig: {
     prism: {
