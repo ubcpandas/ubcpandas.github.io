@@ -1,13 +1,13 @@
 module.exports = {
-  title: 'Tech Interview Handbook',
+  title: 'UBC Pandas',
   tagline:
-    'Carefully curated content to help you ace your next technical interview',
+    "UBC's new student run data and machine learning design team.",
     // TODO: change this to the link that we have readily available for ubc pandas
-  url: 'https://ubcpandas.github.io',
+  url: 'https://friendly-goldberg-4f6d6b.netlify.app',
   baseUrl: '/',
-  favicon: 'img/favicon.png',
+  favicon: 'img/nn1.png',
   organizationName: 'ubcpandas',
-  projectName: 'website',
+  projectName: '',
   onBrokenLinks: 'ignore',
   themeConfig: {
     prism: {
@@ -15,16 +15,16 @@ module.exports = {
       darkTheme: require('prism-react-renderer/themes/dracula'),
     },
     navbar: {
-      title: 'Tech Interview Handbook',
+      title: 'UBC Pandas.',
       logo: {
         alt: 'Tech Interview Handbook Logo',
-        src: 'img/logo.svg',
+        src: 'img/favicon.png',
       },
       items: [
-        {to: 'introduction', label: 'Getting Started', position: 'right'},
+        {to: 'ubcpandas/introduction', label: 'Introduction', position: 'right'},
         {to: 'blog', label: 'Blog', position: 'right'},
         {
-          href: 'https://github.com/yangshun/tech-interview-handbook',
+          href: 'https://github.com/ubcpandas/',
           label: 'GitHub',
           position: 'right',
         },
@@ -55,7 +55,7 @@ module.exports = {
       {
         docs: {
           path: '../contents',
-          routeBasePath: 'localhost:3000',
+          routeBasePath: 'ubcpandas',
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
             'https://github.com/yangshun/tech-interview-handbook/edit/master/contents/',

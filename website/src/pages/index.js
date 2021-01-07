@@ -17,7 +17,7 @@ function Home() {
         <div className="container">
           <img
             className={classnames(styles.heroBannerLogo, 'margin-vert--md')}
-            src={useBaseUrl('img/logo.svg')}
+            src={useBaseUrl('img/nn2.svg')}
           />
           <h1 className="hero__title">{siteConfig.title}</h1>
           <p className="hero__subtitle">{siteConfig.tagline}</p>
@@ -27,7 +27,7 @@ function Home() {
                 'button button--primary button--lg',
                 styles.getStarted,
               )}
-              to={useBaseUrl('introduction')}>
+              to={useBaseUrl('ubcpandas/introduction')}>
               Get Started&nbsp;&nbsp;→
             </Link>
           </div>
@@ -61,23 +61,19 @@ function Home() {
                   <div className="col">
                     <h3>Who?</h3>
                     <p>
-                      Go from zero to tech interview hero with this handbook. No
-                      prior interview experience needed.
+                    Achinth, Adel, Ahnaf, Aishwarya and Vanessa: a bunch of UBC students who wanted to fill this niche with 💖 and 🧠.
                     </p>
                   </div>
                   <div className="col">
                     <h3>What?</h3>
                     <p>
-                      No one has time to practice a few hundred LeetCode
-                      questions. We tell you which are the best questions to
-                      practice.
+                    We're a design org, club and an advocacy group and a bunch of chums who really love to have fun with DS and ML.
                     </p>
                   </div>
                   <div className="col">
                     <h3>Where?</h3>
                     <p>
-                      Straight-to-the-point Do's and Don'ts during an interview.
-                      Knowing these, the battle is already half won.
+                    Come Sept. 2020, we're gonna meet in person on campus. Until then, check out our socials for more Zoom events 🎥 !
                     </p>
                   </div>
                 </div>
@@ -85,22 +81,19 @@ function Home() {
                   <div className="col">
                     <h3>When?</h3>
                     <p>
-                      Practical tips for every algorithm topic - common
-                      techniques and corner cases to look out for.
+                    Your computers. Kaggle. Google Colab. Medium. Python venvs. R-Studio. Your 🧠. Probably some room on the UBC Campus.
                     </p>
                   </div>
                   <div className="col">
                     <h3>How?</h3>
                     <p>
-                      Check out what behavioral questions companies commonly ask
-                      and you can prepare your answers ahead of time.
+                    Stay tuned over the next few months to find out more as we substantiate ourselves as a real club and design organization.
                     </p>
                   </div>
                   <div className="col">
                     <h3>Why?</h3>
                     <p>
-                      Countless engineers have gotten their dream jobs with its
-                      help.
+                    There wasn't a student org which fostered the growth of data scientists and ML engineers. We wanna change that.
                     </p>
                   </div>
                 </div>
@@ -172,12 +165,11 @@ function Home() {
                   <a
                     href="https://opencollective.com/tech-interview-handbook/sponsor/0/website"
                     target="_blank">
-                    <img src="https://opencollective.com/tech-interview-handbook/sponsor/0/avatar.svg" />
+                    
                   </a>
                   <a
                     href="https://opencollective.com/tech-interview-handbook/sponsor/1/website"
                     target="_blank">
-                    <img src="https://opencollective.com/tech-interview-handbook/sponsor/1/avatar.svg" />
                   </a>
                 </div>
                 <div className="margin-vert--lg">
