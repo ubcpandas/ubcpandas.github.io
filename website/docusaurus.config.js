@@ -8,6 +8,7 @@ module.exports = {
   favicon: 'img/favicon.png',
   organizationName: 'ubcpandas',
   projectName: 'website',
+  onBrokenLinks: 'ignore',
   themeConfig: {
     prism: {
       theme: require('prism-react-renderer/themes/github'),
