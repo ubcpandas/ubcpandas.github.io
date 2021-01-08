@@ -4,32 +4,35 @@ title: Our Core 🥑
 sidebar_label: Our Core 🥑
 slug: /
 ---
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 ## Who are we? 
 <div>
-  ![Achinth](../static/img/chinz.jpg 'Achinth')
+  <img src={useBaseUrl('img/chinz.jpg')} title="Achinth" alt='Achinth' width="40%" height="40%" />
   <br/>
   Achinth, our chancellor. He plays a crap ton of ultimate, hikes a lot and really, really likes to eat a lot of food. He has no personality besides frisbee, food, friendship and flailing his incompetent German skills.
 </div>
 <br/>
 <div>
-  ![Adel](../static/img/adel.jpg 'Adel')
+  <img src={useBaseUrl('img/adel.jpg')} title="Ahnaf" alt='Ahnaf' width="40%" height="40%" />
   <br/>
   Adel, our chancellor
 </div>
 <br/>
 <div>
-  ![Ahnaf](../static/img/ahnaf.jpg 'Ahnaf')
+  <img src={useBaseUrl('img/ahnaf.jpg')} title="Ahnaf" alt='Ahnaf' width="40%" height="40%" />
   <br/>
   Ahnaf, our chancellor
 </div>
 <br/>
 <div>
-  ![Aishwarya](../static/img/aish.jpg 'Aishwarya')
+  <img src={useBaseUrl('img/aish.jpg')} title="Aishwarya" alt='Aishwarya' width="40%" height="40%" />
+  <br/>
   Aishwarya, our chancellor
 </div>
 <br/>
 <div>
-  ![Vanessa](../static/img/vanessa.jpg 'Vanessa')
+  <img src={useBaseUrl('img/vanessa.jpg')} title="Vanessa" alt='Vanessa' width="40%" height="40%" />
   <br/>
   Vanessa, our chancellor
 </div>
