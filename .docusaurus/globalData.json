@@ -8,13 +8,8 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "doc1",
+          "mainDocId": "Intro",
           "docs": [
-            {
-              "id": "doc1",
-              "path": "/docs/",
-              "sidebar": "someSidebar"
-            },
             {
               "id": "doc2",
               "path": "/docs/doc2",
@@ -23,6 +18,11 @@
             {
               "id": "doc3",
               "path": "/docs/doc3",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "Intro",
+              "path": "/docs/",
               "sidebar": "someSidebar"
             },
             {

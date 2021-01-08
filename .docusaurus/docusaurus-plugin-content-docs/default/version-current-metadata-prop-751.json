@@ -12,7 +12,7 @@
         "items": [
           {
             "type": "link",
-            "label": "Style Guide",
+            "label": "Our Core 🥑",
             "href": "/docs/"
           },
           {
@@ -42,9 +42,9 @@
     ]
   },
   "permalinkToSidebar": {
-    "/docs/": "someSidebar",
     "/docs/doc2": "someSidebar",
     "/docs/doc3": "someSidebar",
+    "/docs/": "someSidebar",
     "/docs/mdx": "someSidebar"
   }
 }

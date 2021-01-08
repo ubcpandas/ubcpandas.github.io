@@ -39,10 +39,10 @@ export default {
       "style": "dark",
       "links": [
         {
-          "title": "Docs",
+          "title": "Introduction",
           "items": [
             {
-              "label": "Style Guide",
+              "label": "Our core 🥑",
               "to": "docs/"
             },
             {
@@ -55,16 +55,12 @@ export default {
           "title": "Community",
           "items": [
             {
-              "label": "Stack Overflow",
+              "label": "Instagram",
               "href": "https://stackoverflow.com/questions/tagged/docusaurus"
             },
             {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
-            },
-            {
-              "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
+              "label": "Linkedin",
+              "href": "https://linkedin.com/company/71037666"
             }
           ]
         },

@@ -1,29 +1,39 @@
 ---
-id: doc1
-title: Style Guide
-sidebar_label: Style Guide
+id: Intro
+title: Our Core 🥑
+sidebar_label: Our Core 🥑
 slug: /
 ---
-
-You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
-
-## Markdown Syntax
-
-To serve as an example page when styling markdown based Docusaurus sites.
-
-## Headers
-
-# H1 - Create the best documentation
-
-## H2 - Create the best documentation
-
-### H3 - Create the best documentation
-
-#### H4 - Create the best documentation
-
-##### H5 - Create the best documentation
-
-###### H6 - Create the best documentation
+## Who are we? 
+<div>
+  <img src='../static/img/chinz.jpg' title="Achinth" alt='Achinth' width="40%" height="40%" />
+  <br/>
+  Achinth, our chancellor. He plays a crap ton of ultimate, hikes a lot and really, really likes to eat a lot of food. He has no personality besides frisbee, food, friendship and flailing his incompetent German skills.
+</div>
+<br/>
+<div>
+  <img src='../static/img/adel.jpg' title="Ahnaf" alt='Ahnaf' width="40%" height="40%" />
+  <br/>
+  Adel, our chancellor
+</div>
+<br/>
+<div>
+  <img src='../static/img/ahnaf.jpg' title="Ahnaf" alt='Ahnaf' width="40%" height="40%" />
+  <br/>
+  Ahnaf, our chancellor
+</div>
+<br/>
+<div>
+  <img src='../static/img/aish.jpg' title="Aishwarya" alt='Aishwarya' width="40%" height="40%" />
+  <br/>
+  Aishwarya, our chancellor
+</div>
+<br/>
+<div>
+  <img src='../static/img/vanessa.jpg' title="Vanessa" alt='Vanessa' width="40%" height="40%" />
+  <br/>
+  Vanessa, our chancellor
+</div>
 
 ---
 

@@ -11,7 +11,7 @@
           "sidebarFilePath": "/Users/bigdaddytwochinz/Desktop/pandas/ubcdeepthink.github.io/sidebars.js",
           "docsDirPath": "/Users/bigdaddytwochinz/Desktop/pandas/ubcdeepthink.github.io/docs",
           "docsDirPathLocalized": "/Users/bigdaddytwochinz/Desktop/pandas/ubcdeepthink.github.io/i18n/en/docusaurus-plugin-content-docs/current",
-          "mainDocId": "doc1",
+          "mainDocId": "Intro",
           "sidebars": {
             "someSidebar": [
               {
@@ -21,7 +21,7 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "doc1"
+                    "id": "Intro"
                   },
                   {
                     "type": "doc",
@@ -47,30 +47,12 @@
             ]
           },
           "permalinkToSidebar": {
-            "/docs/": "someSidebar",
             "/docs/doc2": "someSidebar",
             "/docs/doc3": "someSidebar",
+            "/docs/": "someSidebar",
             "/docs/mdx": "someSidebar"
           },
           "docs": [
-            {
-              "unversionedId": "doc1",
-              "id": "doc1",
-              "isDocsHomePage": false,
-              "title": "Style Guide",
-              "description": "You can write content using GitHub-flavored Markdown syntax.",
-              "source": "@site/docs/doc1.md",
-              "slug": "/",
-              "permalink": "/docs/",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/doc1.md",
-              "version": "current",
-              "sidebar_label": "Style Guide",
-              "sidebar": "someSidebar",
-              "next": {
-                "title": "Document Number 2",
-                "permalink": "/docs/doc2"
-              }
-            },
             {
               "unversionedId": "doc2",
               "id": "doc2",
@@ -84,7 +66,7 @@
               "version": "current",
               "sidebar": "someSidebar",
               "previous": {
-                "title": "Style Guide",
+                "title": "Our Core 🥑",
                 "permalink": "/docs/"
               },
               "next": {
@@ -111,6 +93,24 @@
               "next": {
                 "title": "Powered by MDX",
                 "permalink": "/docs/mdx"
+              }
+            },
+            {
+              "unversionedId": "Intro",
+              "id": "Intro",
+              "isDocsHomePage": false,
+              "title": "Our Core 🥑",
+              "description": "Who are we?",
+              "source": "@site/docs/doc1.md",
+              "slug": "/",
+              "permalink": "/docs/",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/doc1.md",
+              "version": "current",
+              "sidebar_label": "Our Core 🥑",
+              "sidebar": "someSidebar",
+              "next": {
+                "title": "Document Number 2",
+                "permalink": "/docs/doc2"
               }
             },
             {
