@@ -6,31 +6,30 @@ slug: /
 ---
 ## Who are we? 
 <div>
-  <img src='../static/img/chinz.jpg' title="Achinth" alt='Achinth' width="40%" height="40%" />
+  ![Achinth](../static/img/chinz.jpg 'Achinth')
   <br/>
   Achinth, our chancellor. He plays a crap ton of ultimate, hikes a lot and really, really likes to eat a lot of food. He has no personality besides frisbee, food, friendship and flailing his incompetent German skills.
 </div>
 <br/>
 <div>
-  <img src='../static/img/adel.jpg' title="Ahnaf" alt='Ahnaf' width="40%" height="40%" />
+  ![Adel](../static/img/adel.jpg 'Adel')
   <br/>
   Adel, our chancellor
 </div>
 <br/>
 <div>
-  <img src='../static/img/ahnaf.jpg' title="Ahnaf" alt='Ahnaf' width="40%" height="40%" />
+  ![Ahnaf](../static/img/ahnaf.jpg 'Ahnaf')
   <br/>
   Ahnaf, our chancellor
 </div>
 <br/>
 <div>
-  <img src='../static/img/aish.jpg' title="Aishwarya" alt='Aishwarya' width="40%" height="40%" />
-  <br/>
+  ![Aishwarya](../static/img/aish.jpg 'Aishwarya')
   Aishwarya, our chancellor
 </div>
 <br/>
 <div>
-  <img src='../static/img/vanessa.jpg' title="Vanessa" alt='Vanessa' width="40%" height="40%" />
+  ![Vanessa](../static/img/vanessa.jpg 'Vanessa')
   <br/>
   Vanessa, our chancellor
 </div>
