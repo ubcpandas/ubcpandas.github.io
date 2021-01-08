@@ -30,7 +30,7 @@ const features = [
     imageUrl: '',
     description: (
       <>
-        Come Sept. 2020, we're gonna meet in person on campus. Until then, check out our socials for more Zoom events 🎥 !
+        Come Sept. 2021, we're gonna meet in person on campus. Until then, check out our socials for more Zoom events 🎥 !
       </>
     ),
   },
