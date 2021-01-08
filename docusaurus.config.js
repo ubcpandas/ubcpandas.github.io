@@ -1,13 +1,13 @@
 module.exports = {
   title: 'UBC Pandas',
   tagline: "UBC's new student run data and machine learning design team.",
-  url: 'https://friendly-goldberg-4f6d6b.netlify.app',
+  url: 'https://ubcpandas.github.io',
   baseUrl: '/',
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'ubcpandas', // Usually your GitHub org/user name.
+  projectName: 'ubcpandas.github.io', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'UBC Pandas',

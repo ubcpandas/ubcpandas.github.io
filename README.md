@@ -1,33 +1,33 @@
+# Website
 
-<p align="center">
-  <a href="https://friendly-goldberg-4f6d6b.netlify.app">
-   
-  </a>
-</p>
+This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
 
-<h3 align="center">
-  <a href="https://friendly-goldberg-4f6d6b.netlify.app">ubcdeepthink.com</a>
-</h3>
+## Installation
 
-<p align="center">
-  The official website of UBC pandas.
-</p>
+```console
+yarn install
+```
 
-  [![Netlify Status](https://api.netlify.com/api/v1/badges/9779a10a-9bb7-45f6-8da2-824c90e73e6e/deploy-status)](https://app.netlify.com/sites/friendly-goldberg-4f6d6b/deploys)
+## Local Development
 
-<br>
+```console
+yarn start
+```
 
-## 🔎 Using
+This command starts a local development server and open up a browser window. Most changes are reflected live without having to restart the server.
 
-The [Usage Guide](./USING.md) documents tips for using this website, such as how to check what redirects are currently available and how to link people directly to specific parts of the website.
+## Build
 
-## ⚙️ Configuring
+```console
+yarn build
+```
 
+This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
-## ⚒️ Contributing
+## Deployment
 
+```console
+GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
+```
 
-## 🙏 Gratitudes
-
-A special thanks needs to go out to [Hugo](https://gohugo.io/) and the creators of [Doks](https://themes.gohugo.io/doks/) for providing us with the fantastic, quick-to-setup website.
-
+If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
