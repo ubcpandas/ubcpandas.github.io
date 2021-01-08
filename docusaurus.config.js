@@ -12,7 +12,7 @@ module.exports = {
     navbar: {
       title: 'UBC Pandas',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'My Logo',
         src: 'img/logo.svg',
       },
       items: [
